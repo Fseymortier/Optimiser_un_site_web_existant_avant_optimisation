@@ -1,4 +1,4 @@
-# Optimiser_un_site_web_existant_avant_optimisation
+# Optimiser un site web existant avant optimisation
 
 Pour lancer le projet vous avez seulement besoin de télécharger les ressources et les mettre dans un dossier 
 
